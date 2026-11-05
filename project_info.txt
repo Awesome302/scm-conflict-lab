@@ -1,4 +1,4 @@
-Project Title: Student Portal
-Tean Members: Hanzala and kamal
+Project Title: Student Library Portal
+Team Members: Hanzala Jalal,Meer Usman and Abdul Mohiz
 Course: SCM Lab
 Status: In progress
